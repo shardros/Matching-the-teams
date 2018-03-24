@@ -31,5 +31,3 @@ for i in range (0, numberOfTeams-1):
 for i in range (0, len(out)):
     print(out[i][0], " Vs ", out[i][1])
 
-print(len(out))
-
